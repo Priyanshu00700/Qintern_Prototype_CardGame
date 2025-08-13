@@ -1,5 +1,5 @@
-How to run the Game
+How to install the necessary for the game.
+click on run_game.bat
 
-For Windows go to command prompt
-write:  cd "Path to the folder Cake Game without 
+
 "
